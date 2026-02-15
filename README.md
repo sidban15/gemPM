@@ -1,11 +1,12 @@
 # Quick Start
-### Download the code in zip
-### extract the zip
-### Navigate to the folder in CLI (BASH or PowerShell)
-### type "Gemini" (pre-requisite is that you have gemini CLI installed)
-### type "gemPM Start" (this will execute the workflow in the GEMINI.md)
-### review the files generated in the PRD folder
+1. Download the code in zip
+2. Extract the zip
+3. Navigate to the folder in CLI (BASH or PowerShell)
+4. Type "Gemini" (pre-requisite is that you have gemini CLI installed)
+5. Type "gemPM Start" (this will execute the workflow in the GEMINI.md)
+6. Review the files generated in the PRD folder - you are Done !
 
+________________________________________________________________________________________________________________________________
 
 # Gemini PM Agent: README
 
