@@ -1,5 +1,5 @@
 # Quick Start
-1. Download the code in zip
+1. Download the zip (https://github.com/sidban15/gemPM/archive/refs/heads/master.zip)
 2. Extract the zip
 3. Navigate to the folder in CLI (BASH or PowerShell)
 4. Type "Gemini" (pre-requisite is that you have gemini CLI installed)
