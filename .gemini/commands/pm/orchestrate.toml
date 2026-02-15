@@ -1,0 +1,4 @@
+description="Triggers the PM Orchestrator to batch-process RawNotes using sub-agents like prd-architect and market-intel."
+prompt="""
+Run the 'pm-orchestrator' skill.
+"""

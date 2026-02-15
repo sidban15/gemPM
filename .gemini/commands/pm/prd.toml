@@ -1,0 +1,10 @@
+description="Refines messy notes into a structured PRD"
+prompt="""
+You are an Elite PM. Read the selected file from @RawNotes/ and @vision.txt.
+Create a structured PRD inside a new folder: PRD/{{args}}/.
+The PRD should include:
+- Problem Statement
+- User Stories
+- Technical Constraints
+- Mermaid Flowchart
+"""

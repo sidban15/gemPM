@@ -1,0 +1,7 @@
+description="Performs competitive research using Google Search"
+prompt="""
+Use Google Search to analyze the top 3 competitors for the feature: {{args}}.
+Compare their pricing and key features.
+Identify one unique 'Gap in the Market' we should exploit.
+Save output to PRD/{{args}}/competitor_analysis.md.
+"""

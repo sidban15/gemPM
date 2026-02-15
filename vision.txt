@@ -1,0 +1,20 @@
+Product Vision: Integrated Digital Asset Gateway
+
+Core Objective:
+To bridge traditional retail banking with the decentralized economy by providing a secure, seamless crypto-asset management interface directly within the existing core banking ecosystem.
+
+Target User:
+Retail banking customers who currently hold Savings, Checking, and Line of Credit accounts and desire a unified view of their total net worth, including digital assets.
+
+Key Value Propositions:
+
+    Unified Dashboard: View and manage a secure crypto wallet alongside traditional banking products (Savings, Checking, LOC).
+
+    Frictionless On-Ramp/Off-Ramp: Buy and sell cryptocurrency directly using bank account liquidity through preferred exchange integrations.
+
+    Institutional Security: Provide a "Bank-Grade" security layer for crypto self-custody or managed custody, reducing the barrier to entry for cautious investors.
+
+    Transparent Monetization: Execution of trades based on the bank’s published commission schedule, ensuring regulatory compliance and revenue predictability.
+
+Success Metric:
+Achievement of "Primary Financial App" status—measured by the frequency of users checking the banking portal for both fiat and crypto volatility events.

@@ -1,0 +1,7 @@
+description="Generates Jira-ready syntax for a specific feature"
+prompt="""
+Read the PRD located at PRD/{{args}}/PRD.md.
+Generate 5 User Stories following the format: 'As a [persona], I want [action], so that [value]'.
+Include Acceptance Criteria (AC) for each.
+Save to PRD/{{args}}/JIRA_DRAFT.md.
+"""

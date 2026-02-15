@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "google-sheets": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-google-sheets"],
+      "env": {
+        "GOOGLE_DRIVE_FOLDER_ID": "1_R-Ohy46WKgKv8uhgJtzXpdAoY04AVQ1"
+      }
+    }
+  },
+  "experimental": {
+    "enableAgents": true
+  }
+}

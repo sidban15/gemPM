@@ -1,0 +1,4 @@
+description="Performs regulatory research for a given topic in the US and Canada, saving output to RawNotes/."
+prompt="""
+Run the 'regulatory-intel' skill with the topic: {{args}}.
+"""
